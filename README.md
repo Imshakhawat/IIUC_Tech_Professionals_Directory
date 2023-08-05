@@ -18,10 +18,21 @@ Some tips on making the best out of this directory:
  - If you are to give any interview in a company look if any IIUCians belong from that company and connect with him if you find one.
  - CV review, Interview preparation ideas, company faqs are some basic help you get from this directory.
 
+## Some rules and regulations to follow
+As you deal with professionals you gotta maintain some rules: 
+ - Treat them with respect. Don't expect them to reply to you instantly. They have a professional life and personal life going on.
+ - Try to Communicate via mail. 
+ - While asking for help try to be more descriptive, to the point, and specific. 
+ - Don't Irritate them with questions that can be answered by a simple Google search.
+
+
+
  ## How to contribute
 Anyone can contribute to enrich this directory. All you have to do is share this form with a IIUCian professional who isn't listed here. 
 
 form link: https://forms.gle/RQfCfWPBWu4n4DkN7
+
+ ## List Of Professionals
 
 |  Name                   | Email                                | Organization                         | Designation                                         |   Batch |
 |:---------------------------|:-------------------------------------|:-------------------------------------|:----------------------------------------------------|--------:|
