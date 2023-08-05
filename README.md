@@ -12,10 +12,10 @@ Why we initiated this program-
 
 ## How to use this directory
 Some tips on making the best out of this directory: 
- - star this repository on GitHub.
+ - Star this repository on GitHub.
  - Expand your connection via LinkedIn.
- - If you are to give an interview in a company look if any IIUCians belong to that company and connect with him if you find one.
- - CV review, Interview preparation ideas, and company faqs are some basic help you get from this directory.
+ - If you are to give an interview in a company look if any IIUCians belong to that company and connect with them if you need.
+ - CV review, Interview preparation ideas, and company FAQs are some basic help you get from this directory.
 
 ## Some rules and regulations to follow
 As you deal with professionals you gotta maintain some rules: 
