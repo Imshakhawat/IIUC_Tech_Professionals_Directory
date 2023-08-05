@@ -4,13 +4,13 @@ This repo contains a compilation of ex-iiucian tech professionals. The core purp
 ## Acknowledgements
 This program is conducted by some developers of batch-46. Special thanks to [Angon Chowdhury](https://www.linkedin.com/in/angon-chowdhury/), [Md. Mizanur Rahman ](https://www.linkedin.com/in/mizanur0711) and [Shafiul Azim ](https://www.linkedin.com/in/shafiul-azim-522b53210/) for their kind contribution. 
 
-## Why and how to use this Directory
+## Why and how to use this directory
 Why we initiated this program-
  - To help freshers by making their job-hunting period a bit more fluent.
  - To help current students in finding their senior professionals.
  - To help professionals by giving them the oppurtunity of expanding their networks. And this is the reason why we started in the first place.
 
-## How to use this Directory
+## How to use this directory
 Some tips on making the best out of this directory: 
  - star this repository on GitHub.
  - Expand your connection via LinkedIn.
