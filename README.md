@@ -1,22 +1,21 @@
 # IIUC Tech Professionals Directory
-This repo contains an compilation of ex-iiucian tech professionals. The core purpose of this program is to reduce the communication gap between the professionals and current students.
-
+This repo contains a compilation of ex-iiucian tech professionals. The core purpose of this program is to reduce the communication gap between professionals and current students.
 
 ## Acknowledgements
-This program is conducted by some developers of batch-46. Special thanks to [Angon Chowdhury](https://www.linkedin.com/in/angon-chowdhury/), [Md. Mizanur Rahman ](https://www.linkedin.com/in/mizanur0711) and [Shafiul Azim ](https://www.linkedin.com/in/shafiul-azim-522b53210/) for their kind contribution.
+This program is conducted by some developers of batch-46. Special thanks to [Angon Chowdhury](https://www.linkedin.com/in/angon-chowdhury/), [Md. Mizanur Rahman ](https://www.linkedin.com/in/mizanur0711) and [Shafiul Azim ](https://www.linkedin.com/in/shafiul-azim-522b53210/) for their kind contribution. 
 
 ## Why and how to use this repository
 Why we initiated this program-
- - To help freshers by making their job hunting period a bit more fluent.
+ - To help freshers by making their job-hunting period a bit more fluent.
  - To help current students in finding their senior professionals.
- - To help professionals by giving them oppurtunity of expanding their networks. And this is the reason why we started at the first place.
+ - To help professionals by giving them the oppurtunity of expanding their networks. And this is the reason why we started in the first place.
 
 ## How to use this repository
 Some tips on making the best out of this directory: 
- - star this repository on github.
- - Expand your connection via linkedin.
- - If you are to give any interview in a company look if any IIUCians belong from that company and connect with him if you find one.
- - CV review, Interview preparation ideas, company faqs are some basic help you get from this directory.
+ - star this repository on GitHub.
+ - Expand your connection via LinkedIn.
+ - If you are to give an interview in a company look if any IIUCians belong to that company and connect with him if you find one.
+ - CV review, Interview preparation ideas, and company faqs are some basic help you get from this directory.
 
 ## Some rules and regulations to follow
 As you deal with professionals you gotta maintain some rules: 
@@ -28,8 +27,7 @@ As you deal with professionals you gotta maintain some rules:
 
 
  ## How to contribute
-Anyone can contribute to enrich this directory. All you have to do is share this form with a IIUCian professional who isn't listed here. 
-
+Anyone IIUCian can contribute to enriching this directory. All you have to do is share this form with an IIUCian professional who isn't listed here. 
 form link: https://forms.gle/RQfCfWPBWu4n4DkN7
 
  ## List Of Professionals
